@@ -15,6 +15,8 @@ vDummyValue = Replace(vDummyValue,":","x")
 
 'test 2 commit
 
+'third 3 from gui 
+
 '=======  SSL redirect  =======
 sHTTP_HOST = Request.ServerVariables("HTTP_HOST")
 %>
