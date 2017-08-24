@@ -11,7 +11,7 @@ vDummyValue = Replace(vDummyValue," ","")
 vDummyValue = Replace(vDummyValue,"/","x")
 vDummyValue = Replace(vDummyValue,":","x")
 ' ------------------------------------------------------------------
-
+'test edit git
 
 '=======  SSL redirect  =======
 sHTTP_HOST = Request.ServerVariables("HTTP_HOST")
